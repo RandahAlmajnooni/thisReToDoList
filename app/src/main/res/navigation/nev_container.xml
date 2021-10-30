@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nev_container"
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.notesapproomdatabase.MainActivity"
+        android:label="activity_main"
+        tools:layout="@layout/activity_main" />
+    <activity
+        android:id="@+id/addNoteActivity"
+        android:name="com.example.notesapproomdatabase.AddNoteActivity"
+        android:label="activity_add_note"
+        tools:layout="@layout/activity_add_note" />
+    <fragment
+        android:id="@+id/dashFragment"
+        android:name="com.example.notesapproomdatabase.dashFragment"
+        android:label="fragment_dash"
+        tools:layout="@layout/fragment_dash" />
+    <fragment
+        android:id="@+id/testButton"
+        android:name="com.example.notesapproomdatabase.testButton"
+        android:label="fragment_test_button"
+        tools:layout="@layout/fragment_test_button" />
+</navigation>

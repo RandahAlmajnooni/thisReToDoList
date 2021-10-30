@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chocolate/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/activity_add_note.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/Chocolate/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Chocolate/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/item_note.xml" value="0.22" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/activity_add_note.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/activity_splash_screen.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/fragment_dash.xml" value="0.14375" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.14375" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.14375" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/fragment_recev.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/fragment_test_button.xml" value="0.4" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/layout/item_note.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/NotesAppRoomDataBase/app/src/main/res/menu/bottom_menu.xml" value="0.14375" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/newReToDoList-master/app/src/main/res/layout/activity_add_note.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/newReToDoList-master/app/src/main/res/layout/item_note.xml" value="0.2" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/activity_add_note.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/activity_main.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/fragment_dash.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/fragment_recev.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/fragment_test_button.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/item_note.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/layout/radiusi.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AndroidStudioProjects/todoList-master/app/src/main/res/menu/bottom_menu.xml" value="0.275" />
+        <entry key="..\:/Users/msi-pc/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/activity_list_item.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:background="#B4FFFFFF"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            tools:ignore="Suspicious0dp">
+        </RelativeLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAllCaps="true"
+            android:paddingTop="10dp"
+            android:text="Task"
+            android:textStyle="italic"
+            android:textSize="32sp"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="160dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginStart="15dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginBottom="11dp"
+                android:background="@drawable/lighttone">
+
+                <TextView
+                    android:id="@+id/TexttRecevMain"
+                    android:layout_width="250dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="38dp"
+                    android:hint="432"
+                    android:paddingTop="0dp"
+                    android:textSize="23dp" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="70dp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="-0dp"
+                android:src="@drawable/paper" />
+
+            <TextView
+                android:id="@+id/textRecevTitle"
+                android:layout_width="170dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:hint="33333"
+                android:textSize="24dp">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/textRecevDate"
+                android:layout_width="70dp"
+                android:layout_height="36sp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="100dp"
+                android:hint="44444"
+                android:textSize="17dp" />
+
+            <ImageView
+                android:id="@+id/deleteButton"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="270dp"
+                android:layout_marginTop="100dp"
+                android:layout_marginBottom="22sp"
+                android:paddingTop="0dp"
+                android:src="@drawable/ic_delete" />
+
+            <CheckBox
+                android:id="@+id/checkbox1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="323dp"
+                android:layout_marginTop="80dp"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <TextView
+                android:id="@+id/textshownhere"
+                android:layout_width="70dp"
+                android:layout_height="40dp"
+                android:layout_marginStart="110dp"
+                android:layout_marginTop="100dp"
+                android:hint="2000"
+                android:textSize="17dp" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</ScrollView>

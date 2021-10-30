@@ -1,0 +1,14 @@
+com/example/notesapproomdatabase/NotesDao_Impl.java
+ com.example.notesapproomdatabase.NotesDao_Impl
+ com.example.notesapproomdatabase.NotesDao_Impl$1
+ com.example.notesapproomdatabase.NotesDao_Impl$2
+ com.example.notesapproomdatabase.NotesDao_Impl$3
+ com.example.notesapproomdatabase.NotesDao_Impl$4
+ com.example.notesapproomdatabase.NotesDao_Impl$5
+ com.example.notesapproomdatabase.NotesDao_Impl$6
+ com.example.notesapproomdatabase.NotesDao_Impl$7
+com/example/notesapproomdatabase/BuildConfig.java
+ com.example.notesapproomdatabase.BuildConfig
+com/example/notesapproomdatabase/NoteDataBase_Impl.java
+ com.example.notesapproomdatabase.NoteDataBase_Impl
+ com.example.notesapproomdatabase.NoteDataBase_Impl$1
